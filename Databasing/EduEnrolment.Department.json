@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "6666bb39fa307ceca5cdcdf6"
+  },
+  "DepID": 2,
+  "DepName": "Law Department"
+},
+{
+  "_id": {
+    "$oid": "6666bb39fa307ceca5cdcdf7"
+  },
+  "DepID": 3,
+  "DepName": "Accounting Department"
+},
+{
+  "_id": {
+    "$oid": "6666bb39fa307ceca5cdcdf8"
+  },
+  "DepID": 4,
+  "DepName": "Humanities and Art Department"
+},
+{
+  "_id": {
+    "$oid": "6666bb39fa307ceca5cdcdf9"
+  },
+  "DepID": 5,
+  "DepName": "Science Department"
+},
+{
+  "_id": {
+    "$oid": "6666bba8fa307ceca5cdcdfa"
+  },
+  "DepID": 1,
+  "DepName": "IT Department"
+}]

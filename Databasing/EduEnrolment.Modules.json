@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "6666c905fa307ceca5cdce05"
+  },
+  "ModuleID": "CPP1513",
+  "Instructors_InstructorID": 1,
+  "ModuleName": "Introduction to C++",
+  "NumberOfStudents": 15,
+  "ExamDate": "2024-07-01"
+},
+{
+  "_id": {
+    "$oid": "6666cb02fa307ceca5cdce06"
+  },
+  "ModuleID": "ILW322",
+  "Instructors_InstructorID": 2,
+  "ModuleName": "Introduction to Law",
+  "NumberOfStudents": 20,
+  "ExamDate": "2024-07-11"
+},
+{
+  "_id": {
+    "$oid": "6666cb02fa307ceca5cdce07"
+  },
+  "ModuleID": "FAC428",
+  "Instructors_InstructorID": 3,
+  "ModuleName": "Financial Accounting",
+  "NumberOfStudents": 28,
+  "ExamDate": "2024-07-05"
+},
+{
+  "_id": {
+    "$oid": "6666cb02fa307ceca5cdce08"
+  },
+  "ModuleID": "HOA758",
+  "Instructors_InstructorID": 4,
+  "ModuleName": "History of Art",
+  "NumberOfStudents": 17,
+  "ExamDate": "2024-07-08"
+},
+{
+  "_id": {
+    "$oid": "6666cb02fa307ceca5cdce09"
+  },
+  "ModuleID": "ITB528",
+  "Instructors_InstructorID": 5,
+  "ModuleName": "Introduction in Biology",
+  "NumberOfStudents": 30,
+  "ExamDate": "2024-07-05"
+}]

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">QuickCal</string>
+    <string name="addition">ADDITION</string>
+    <string name="subtraction">SUBTRACTION</string>
+    <string name="multiplication">MULTIPLICATION</string>
+    <string name="division">DIVISION</string>
+    <string name="square_root">SQUARE ROOT</string>
+    <string name="power">POWER</string>
+    <string name="answer">Answer:</string>
+    <string name="statistics_functions">STATISTICS FUNCTIONS</string>
+    <string name="enter_two_numbers">Enter two numbers:</string>
+    <string name="enter_number">Enter Number:</string>
+    <string name="addText">ADD</string>
+    <string name="numbers_stored_in_memory">Numbers stored in Memory:</string>
+    <string name="clear">CLEAR</string>
+    <string name="calculate_average">CALCULATE AVERAGE</string>
+    <string name="find_min_and_max">FIND MIN AND MAX</string>
+    <string name="answerV2">Answer:</string>
+</resources>

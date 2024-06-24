@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "6666bf6bfa307ceca5cdce00"
+  },
+  "InstructorID": 1,
+  "Department_DepID": 1,
+  "FName": "Wendy",
+  "LName": "Tonga",
+  "Phone": "0825632486",
+  "Address": "17 Bicker Street, Midrand, Gauteng"
+},
+{
+  "_id": {
+    "$oid": "6666c118fa307ceca5cdce01"
+  },
+  "InstructorID": 2,
+  "Department_DepID": 2,
+  "FName": "Jessica",
+  "LName": "Hill",
+  "Phone": "0716542389",
+  "Address": "1 Kobalt Street, Midrand, Gauteng"
+},
+{
+  "_id": {
+    "$oid": "6666c118fa307ceca5cdce02"
+  },
+  "InstructorID": 3,
+  "Department_DepID": 3,
+  "FName": "Phillip",
+  "LName": "Setonga",
+  "Phone": "0612354789",
+  "Address": "8 Nice Lane, Sandton, Gauteng"
+},
+{
+  "_id": {
+    "$oid": "6666c118fa307ceca5cdce03"
+  },
+  "InstructorID": 4,
+  "Department_DepID": 4,
+  "FName": "Lana",
+  "LName": "Jacobsons",
+  "Phone": "0630253461",
+  "Address": "65 Loner Road, Edenvale, Gauteng"
+}]
