@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6666cc3dfa307ceca5cdce0a"
+  },
+  "ResultID": 1,
+  "Modules_ModuleID": "CPP1513",
+  "Students_StudentNumber ": "STU001",
+  "ModuleMark": 85
+},
+{
+  "_id": {
+    "$oid": "6666cd29fa307ceca5cdce0b"
+  },
+  "ResultID": 2,
+  "Modules_ModuleID": "ILW322",
+  "Students_StudentNumber": "STU002",
+  "ModuleMark": 92
+},
+{
+  "_id": {
+    "$oid": "6666cd29fa307ceca5cdce0c"
+  },
+  "ResultID": 3,
+  "Modules_ModuleID": "FAC428",
+  "Students_StudentNumber": "STU003",
+  "ModuleMark": 71
+},
+{
+  "_id": {
+    "$oid": "6666cd29fa307ceca5cdce0d"
+  },
+  "ResultID": 4,
+  "Modules_ModuleID": "HOA758",
+  "Students_StudentNumber": "STU004",
+  "ModuleMark": 78
+},
+{
+  "_id": {
+    "$oid": "6666cd29fa307ceca5cdce0e"
+  },
+  "ResultID": 5,
+  "Modules_ModuleID": "ITB528",
+  "Students_StudentNumber": "STU005",
+  "ModuleMark": 89
+}]

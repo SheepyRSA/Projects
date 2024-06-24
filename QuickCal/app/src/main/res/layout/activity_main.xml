@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:background="@color/Grey"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20sp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/msgEnterNum"
+                android:layout_width="80sp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/enter_two_numbers"
+                android:textAlignment="center"
+                android:textSize="16sp" />
+
+            <EditText
+                android:id="@+id/etNumX"
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:layout_weight="1"
+                android:ems="10"
+                android:inputType="number|numberDecimal|numberSigned"
+                android:textAlignment="center"
+                tools:ignore="SpeakableTextPresentCheck" />
+
+            <EditText
+                android:id="@+id/etNumY"
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:layout_weight="1"
+                android:ems="10"
+                android:inputType="number|numberDecimal|numberSigned"
+                android:textAlignment="center"
+                tools:ignore="SpeakableTextPresentCheck" />
+
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/btnAdd"
+            android:layout_width="200sp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10sp"
+            android:layout_weight="0"
+            android:text="@string/addition" />
+
+        <Button
+            android:id="@+id/btnSub"
+            android:layout_width="200sp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10sp"
+            android:text="@string/subtraction" />
+
+        <Button
+            android:id="@+id/btnTimes"
+            android:layout_width="200sp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10sp"
+            android:text="@string/multiplication"/>
+
+        <Button
+            android:id="@+id/btnDev"
+            android:layout_width="200sp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10sp"
+            android:text="@string/division"/>
+
+        <Button
+            android:id="@+id/btnSquare"
+            android:layout_width="200sp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10sp"
+            android:text="@string/square_root"/>
+
+        <Button
+            android:id="@+id/btnPow"
+            android:layout_width="200sp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20sp"
+            android:text="@string/power"/>
+
+        <TextView
+            android:id="@+id/msgAnswer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/answer" />
+
+        <TextView
+            android:id="@+id/msgCalc"
+            android:layout_width="match_parent"
+            android:layout_height="50sp" />
+
+        <TextView
+            android:id="@+id/msgError"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20sp" />
+
+        <Button
+            android:id="@+id/btnChangeView"
+            android:layout_width="250sp"
+            android:layout_height="wrap_content"
+            android:text="@string/statistics_functions" />
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

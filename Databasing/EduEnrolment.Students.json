@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6666bc76fa307ceca5cdcdfb"
+  },
+  "StudentNumber": "STU001",
+  "FName": "James",
+  "LName": "Wright",
+  "Phone": "0812682323"
+},
+{
+  "_id": {
+    "$oid": "6666bd8dfa307ceca5cdcdfc"
+  },
+  "StudentNumber": "STU002",
+  "FName": "Lindsay",
+  "LName": "Coleman",
+  "Phone": "0712682223"
+},
+{
+  "_id": {
+    "$oid": "6666bd8dfa307ceca5cdcdfd"
+  },
+  "StudentNumber": "STU003",
+  "FName": "Dick",
+  "LName": "Romans",
+  "Phone": "0612612343"
+},
+{
+  "_id": {
+    "$oid": "6666bd8dfa307ceca5cdcdfe"
+  },
+  "StudentNumber": "STU004",
+  "FName": "Jacob",
+  "LName": "White",
+  "Phone": "0615234123"
+},
+{
+  "_id": {
+    "$oid": "6666bd8dfa307ceca5cdcdff"
+  },
+  "StudentNumber": "STU005",
+  "FName": "Isak",
+  "LName": "Pillay",
+  "Phone": "0718543269"
+}]
