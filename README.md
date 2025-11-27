@@ -8,3 +8,5 @@ This includes my Higher certificate in mobile app and web development and my Bac
 4. ITSCA would be my python coding and with a small touch into unsupervised learning.
 5. QuickCal is a normal calculator app we designed for my higher certificate.
 6. WEDE5020 This was our final project for web development which included, HTML, CSS and Javascript
+
+The Final year project file is for the last project done within my Bsc in IT(Data Science) studies we were a group of 4 doing various things to get this done.
